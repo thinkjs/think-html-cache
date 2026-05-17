@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-html-cache.
+
 # think-html-cache
 
 html-cache middleware for ThinkJS 2.0
